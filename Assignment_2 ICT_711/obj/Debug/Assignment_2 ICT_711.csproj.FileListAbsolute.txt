@@ -1,0 +1,12 @@
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\bin\Debug\Assignment_2 ICT_711.exe.config
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\bin\Debug\Assignment_2 ICT_711.exe
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\bin\Debug\Assignment_2 ICT_711.pdb
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\obj\Debug\Assignment_2 ICT_711.csproj.AssemblyReference.cache
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\obj\Debug\Assignment_2_ICT_711.payroll_Calculator_form.resources
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\obj\Debug\Assignment_2_ICT_711.Properties.Resources.resources
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\obj\Debug\Assignment_2 ICT_711.csproj.GenerateResource.cache
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\obj\Debug\Assignment_2 ICT_711.csproj.CoreCompileInputs.cache
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\obj\Debug\Assignment_2 ICT_711.exe
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\obj\Debug\Assignment_2 ICT_711.pdb
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\obj\Debug\Assignment_2_ICT_711.add_Employee_Form.resources
+C:\Users\Rosel\source\repos\Payroll_Manager\Assignment_2 ICT_711\obj\Debug\Assignment_2_ICT_711.Update_Timesheet_Form.resources
